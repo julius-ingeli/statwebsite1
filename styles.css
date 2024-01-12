@@ -34,3 +34,10 @@ ul{
     display: table;
     margin: 0 auto;
 }
+/* if statement
+@media (max-width:900px){
+    body{
+        background-color: blue;
+    }
+}
+*/
